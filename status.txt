@@ -21,3 +21,18 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 
+
+
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    status.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        task1/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
