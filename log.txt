@@ -1,0 +1,12 @@
+$ git log
+commit 13cb00525f6b7dbd1301794237fb0530cbf05b69 (HEAD -> master)
+Author: Alexander <sasha.androsov.01@mail.ru>
+Date:   Wed Feb 12 20:30:27 2020 +0300
+
+    add status.txt
+
+commit 0d1bd1c1bdb2b59c69815748ac3a2c2f87c0e39b
+Author: Alexander <sasha.androsov.01@mail.ru>
+Date:   Wed Feb 12 20:28:44 2020 +0300
+
+    add .gitignore
