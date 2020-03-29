@@ -1,0 +1,125 @@
+title {
+    color: red;
+    margin: 0px 0 0 50px;
+}
+h1 {
+    margin: 0px 0 0 95px;
+    color:darkred;
+    font-size: 70px; /*размер шрифта*/
+}
+.user {
+    position:absolute;
+    top: 0%;
+    left: 38%;
+    color: darkred;
+    font-size: 30px;
+    text-align: center;
+}
+.photocard /*Главная картинка*/ {
+    margin: -70px 0 0 0px;
+    display: block;
+    width: 85px;
+    height: 65px;
+    border-radius: 16px;
+}
+.icons {
+    margin: 0px 0 0 0px;
+    display: block;
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+}
+.div2 {
+    border-left: 100px solid white;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 100px 20px 45px 400px;
+    width: 700px;
+    height: 130px;
+    border-radius: 9px;
+    -moz-border-radius: 9px;
+    -webkit-border-radius: 9px;
+    background-color: rgb(204, 204, 204);
+}
+
+
+.div1 {
+    border-left: 100px solid white;
+    border: 2px solid black;
+    padding: 10px;
+    margin: -45px 20px 45px 400px;
+    width: 700px;
+    height: 130px;
+    border-radius: 9px;
+    -moz-border-radius: 9px;
+    -webkit-border-radius: 9px;
+    background-color: rgb(204, 204, 204);
+}
+
+
+em {
+    padding: 15px;
+    font-size: 14px;
+    color: crimson;
+}
+
+ins {
+    color:green;
+    font-size: 18px;
+}
+
+.hashtag {
+    color: darkblue;
+    font-size: 13px;
+    background-color: rgb(204, 204, 204);
+}
+.about_as {
+    position: absolute;
+    top: 7%;
+    left: 29%;
+    color: darkred;
+    font-size: 20px;
+}
+.Publish_a_post {
+    position: absolute;
+    top: 25px;
+    left: 45%;
+    text-align: center;
+   
+}
+
+sort {
+    width: 130px;
+    height: 130px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    background-color: rgb(204, 204, 204);
+    padding: 15px;
+}
+
+li {
+    font-size: 20px;
+}
+
+/*.like {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 50%;
+    left: 90%;
+}*/
+
+
+.Download more {
+    /*position:absolute;
+    top: 87%;
+    left: 50%;
+    color: darkred;
+    font-size: 20px;*/
+    position: absolute;
+    top: 7%;
+    left: 29%;
+    color: darkred;
+    font-size: 20px;
+}
