@@ -1,0 +1,1 @@
+ SELECT * FROM POST where USER_ID = 5 and DESCRIPTION LIKE '%hello%';
